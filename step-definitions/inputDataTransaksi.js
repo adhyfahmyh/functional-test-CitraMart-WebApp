@@ -7,17 +7,22 @@ module.exports = function(){
     })
     this.Given(/^kasir klik menu forms$/, function(){
         driver.then(function(){
-            return page.fillUser.perform()
+            return page.menuForms.perform()
         })
     })
     this.Given(/^kasir klik kelola penjualan$/, function(){
         driver.then(function(){
-            return page.fillPass.perform()
+            return page.menuKelolaPenjualan.perform()
+        })
+    })
+    this.Given(/^kasir masukkan total penjualan$/, function(){
+        driver.then(function(){
+            return page.fillPenjualan.perform()
         })
     })
     this.Given(/^kasir masukkan total laba$/, function(){
         driver.then(function(){
-            return page.btnLogin.perform()
+            return page.fillLaba.perform()
         })
     })
     this.When(/^kasir klik add categoryn$/, function(){
