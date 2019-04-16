@@ -7,17 +7,17 @@
             <property name="URI" value="D:/(( KULIAH ))/SEMESTER 8/(PMPL) Penjaminan Mutu Perangkat Lunak/Workshop()/features/login.feature">
             </property>
         </properties>
-        <testcase name="Given kasir login" classname="login;user-kasir-login" time="0.000412319">
+        <testcase name="Given kasir login" classname="login;user-kasir-login" time="0.000995681">
         </testcase>
-        <testcase name="And user membuka halaman login" classname="login;user-kasir-login" time="0.000761581">
+        <testcase name="And user membuka halaman login" classname="login;user-kasir-login" time="0.00022164">
         </testcase>
-        <testcase name="And user memasukkan username" classname="login;user-kasir-login" time="0.000220507">
+        <testcase name="And user memasukkan username" classname="login;user-kasir-login" time="0.000163115">
         </testcase>
-        <testcase name="And user memasukkan password" classname="login;user-kasir-login" time="0.000246183">
+        <testcase name="And user memasukkan password" classname="login;user-kasir-login" time="0.000189168">
         </testcase>
-        <testcase name="When user klik login" classname="login;user-kasir-login" time="0.000271481">
+        <testcase name="When user klik login" classname="login;user-kasir-login" time="0.000195965">
         </testcase>
-        <testcase name="Then user masuk" classname="login;user-kasir-login" time="0.00011705">
+        <testcase name="Then user masuk" classname="login;user-kasir-login" time="0.000412319">
         </testcase>
     </testsuite>
 </testsuites>

@@ -1,0 +1,118 @@
+[
+  {
+    "description": "user kasir melakukan login",
+    "elements": [
+      {
+        "id": "login;user-kasir-login",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "user kasir login",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "kasir login",
+            "result": {
+              "status": "passed",
+              "duration": 995681
+            },
+            "line": 6,
+            "match": {
+              "location": "Lunak\\Workshop\\step-definitions\\login-step.js:2"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user membuka halaman login",
+            "result": {
+              "status": "passed",
+              "duration": 221640
+            },
+            "line": 7,
+            "match": {
+              "location": "Lunak\\Workshop\\step-definitions\\login-step.js:5"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user memasukkan username",
+            "result": {
+              "status": "passed",
+              "duration": 163115
+            },
+            "line": 8,
+            "match": {
+              "location": "Lunak\\Workshop\\step-definitions\\login-step.js:8"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user memasukkan password",
+            "result": {
+              "status": "passed",
+              "duration": 189168
+            },
+            "line": 9,
+            "match": {
+              "location": "Lunak\\Workshop\\step-definitions\\login-step.js:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "user klik login",
+            "result": {
+              "status": "passed",
+              "duration": 195965
+            },
+            "line": 10,
+            "match": {
+              "location": "Lunak\\Workshop\\step-definitions\\login-step.js:18"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "user masuk",
+            "result": {
+              "status": "passed",
+              "duration": 412319
+            },
+            "line": 11,
+            "match": {
+              "location": "Lunak\\Workshop\\step-definitions\\login-step.js:23"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 4506937488
+            },
+            "hidden": true,
+            "match": {
+              "location": "Lunak\\Workshop\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@success",
+            "line": 4
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "login",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "login",
+    "tags": [],
+    "uri": "D:/(( KULIAH ))/SEMESTER 8/(PMPL) Penjaminan Mutu Perangkat Lunak/Workshop()/features/login.feature"
+  }
+]

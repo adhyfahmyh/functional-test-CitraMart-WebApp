@@ -1,9 +1,9 @@
 module.exports = function(){
     this.Given(/^kasir login$/, function(){
-
+        helpers.loadPage(shared.pages.loginPage)
     })
     this.Given(/^user membuka halaman login$/, function(){
-        helpers.loadPage(shared.halaman.loginPage)
+        helpers.loadPage(shared.pages.loginPage)
     })
     this.Given(/^user memasukkan username$/, function(){
         driver.then(function(){
@@ -21,6 +21,6 @@ module.exports = function(){
         })
     })
     this.Then(/^user masuk$/, function(){
-        
+        helpers.loadPage(shared.pages.page2)
     })
 }
