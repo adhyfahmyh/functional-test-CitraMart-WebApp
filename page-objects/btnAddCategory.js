@@ -1,5 +1,5 @@
 module.exports = {
-    url : "http://localhost/CitraMart/view/index_penjualan.php",
+    url : "http://localhost/CitraMart/view/kelola_penjualan.php",
 
     elements : {
         addcategory : by.xpath("//input[@value='Add Category']")

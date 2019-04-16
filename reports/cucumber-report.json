@@ -13,7 +13,7 @@
             "name": "kasir input data",
             "result": {
               "status": "passed",
-              "duration": 445546
+              "duration": 512000
             },
             "line": 5,
             "match": {
@@ -26,7 +26,7 @@
             "name": "kasir buka halaman transaksi",
             "result": {
               "status": "passed",
-              "duration": 551268
+              "duration": 356059
             },
             "line": 6,
             "match": {
@@ -39,7 +39,7 @@
             "name": "kasir klik menu forms",
             "result": {
               "status": "passed",
-              "duration": 401369
+              "duration": 141593
             },
             "line": 7,
             "match": {
@@ -48,11 +48,88 @@
           },
           {
             "arguments": [],
+            "keyword": "When ",
+            "name": "kasir klik kelola penjualan",
+            "result": {
+              "status": "passed",
+              "duration": 175953
+            },
+            "line": 8,
+            "match": {
+              "location": "Lunak\\Workshop\\step-definitions\\inputDataTransaksi.js:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "kasir membuka kelola penjualan",
+            "result": {
+              "status": "passed",
+              "duration": 453853
+            },
+            "line": 9,
+            "match": {
+              "location": "Lunak\\Workshop\\step-definitions\\inputDataTransaksi.js:18"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "kasir masukkan total penjualan",
+            "result": {
+              "status": "passed",
+              "duration": 142725
+            },
+            "line": 10,
+            "match": {
+              "location": "Lunak\\Workshop\\step-definitions\\inputDataTransaksi.js:21"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "kasir masukkan total laba",
+            "result": {
+              "status": "passed",
+              "duration": 177086
+            },
+            "line": 11,
+            "match": {
+              "location": "Lunak\\Workshop\\step-definitions\\inputDataTransaksi.js:26"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "kasir klik add category",
+            "result": {
+              "status": "passed",
+              "duration": 118938
+            },
+            "line": 12,
+            "match": {
+              "location": "Lunak\\Workshop\\step-definitions\\inputDataTransaksi.js:31"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "data berhasil masuk",
+            "result": {
+              "status": "passed",
+              "duration": 285829
+            },
+            "line": 13,
+            "match": {
+              "location": "Lunak\\Workshop\\step-definitions\\inputDataTransaksi.js:36"
+            }
+          },
+          {
+            "arguments": [],
             "keyword": "After ",
             "result": {
-              "status": "failed",
-              "duration": 3910939924,
-              "error_message": "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.103)\n  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64)\n    at Object.checkLegacyResponse (D:\\(( KULIAH ))\\SEMESTER 8\\(PMPL) Penjaminan Mutu Perangkat Lunak\\Workshop()\\node_modules\\selenium-webdriver\\lib\\error.js:529:15)\n    at parseHttpResponse (D:\\(( KULIAH ))\\SEMESTER 8\\(PMPL) Penjaminan Mutu Perangkat Lunak\\Workshop()\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n    at doSend.then.response (D:\\(( KULIAH ))\\SEMESTER 8\\(PMPL) Penjaminan Mutu Perangkat Lunak\\Workshop()\\node_modules\\selenium-webdriver\\lib\\http.js:441:30)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: WebElement.sendKeys()\n    at thenableWebDriverProxy.schedule (D:\\(( KULIAH ))\\SEMESTER 8\\(PMPL) Penjaminan Mutu Perangkat Lunak\\Workshop()\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n    at WebElementPromise.schedule_ (D:\\(( KULIAH ))\\SEMESTER 8\\(PMPL) Penjaminan Mutu Perangkat Lunak\\Workshop()\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2015:25)\n    at WebElementPromise.sendKeys (D:\\(( KULIAH ))\\SEMESTER 8\\(PMPL) Penjaminan Mutu Perangkat Lunak\\Workshop()\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2178:19)\n    at Object.perform (D:\\(( KULIAH ))\\SEMESTER 8\\(PMPL) Penjaminan Mutu Perangkat Lunak\\Workshop()\\page-objects\\menuForms.js:10:45)\n    at D:\\(( KULIAH ))\\SEMESTER 8\\(PMPL) Penjaminan Mutu Perangkat Lunak\\Workshop()\\step-definitions\\inputDataTransaksi.js:10:35\n    at ManagedPromise.invokeCallback_ (D:\\(( KULIAH ))\\SEMESTER 8\\(PMPL) Penjaminan Mutu Perangkat Lunak\\Workshop()\\node_modules\\selenium-webdriver\\lib\\promise.js:1384:14)\n    at TaskQueue.execute_ (D:\\(( KULIAH ))\\SEMESTER 8\\(PMPL) Penjaminan Mutu Perangkat Lunak\\Workshop()\\node_modules\\selenium-webdriver\\lib\\promise.js:3092:14)\n    at TaskQueue.executeNext_ (D:\\(( KULIAH ))\\SEMESTER 8\\(PMPL) Penjaminan Mutu Perangkat Lunak\\Workshop()\\node_modules\\selenium-webdriver\\lib\\promise.js:3075:27)\n    at asyncRun (D:\\(( KULIAH ))\\SEMESTER 8\\(PMPL) Penjaminan Mutu Perangkat Lunak\\Workshop()\\node_modules\\selenium-webdriver\\lib\\promise.js:2935:27)\n    at D:\\(( KULIAH ))\\SEMESTER 8\\(PMPL) Penjaminan Mutu Perangkat Lunak\\Workshop()\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7"
+              "status": "passed",
+              "duration": 5618294488
             },
             "hidden": true,
             "match": {
@@ -91,7 +168,7 @@
             "name": "kasir login",
             "result": {
               "status": "passed",
-              "duration": 314903
+              "duration": 204649
             },
             "line": 6,
             "match": {
@@ -104,7 +181,7 @@
             "name": "user membuka halaman login",
             "result": {
               "status": "passed",
-              "duration": 378336
+              "duration": 209180
             },
             "line": 7,
             "match": {
@@ -117,7 +194,7 @@
             "name": "user memasukkan username",
             "result": {
               "status": "passed",
-              "duration": 131398
+              "duration": 120071
             },
             "line": 8,
             "match": {
@@ -130,7 +207,7 @@
             "name": "user memasukkan password",
             "result": {
               "status": "passed",
-              "duration": 188035
+              "duration": 129132
             },
             "line": 9,
             "match": {
@@ -143,7 +220,7 @@
             "name": "user klik login",
             "result": {
               "status": "passed",
-              "duration": 178218
+              "duration": 791032
             },
             "line": 10,
             "match": {
@@ -156,7 +233,7 @@
             "name": "user masuk",
             "result": {
               "status": "passed",
-              "duration": 227681
+              "duration": 355682
             },
             "line": 11,
             "match": {
@@ -168,7 +245,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 4258227022
+              "duration": 4055294500
             },
             "hidden": true,
             "match": {
