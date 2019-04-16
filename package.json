@@ -1,0 +1,27 @@
+{
+  "name": "functional-test",
+  "version": "1.0.0",
+  "description": "functional test",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "selenium-cucumber-js": "^1.5.13"
+  },
+  "scripts": {
+    "test": "node ./node_modules/selenium-cucumber-js/index.js -s ./step-definitions",
+    "test-headless": "node ./index.js -s ./step-definitions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhyfahmyh/CitraMart-WebApp.git"
+  },
+  "keywords": [
+    "functional-test"
+  ],
+  "author": "adhyfahmyh",
+  "license": "Telkom (c) 2019",
+  "bugs": {
+    "url": "https://github.com/adhyfahmyh/CitraMart-WebApp/issues"
+  },
+  "homepage": "https://github.com/adhyfahmyh/CitraMart-WebApp#readme"
+}
