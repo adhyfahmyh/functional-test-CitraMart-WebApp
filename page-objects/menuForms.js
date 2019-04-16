@@ -7,6 +7,6 @@ module.exports = {
 
     perform: function(){
         var selector = page.menuForms.elements.forms;
-        return driver.findElement(selector).click(selector);
+        return driver.findElement(selector).sendKeys('Kelola Penjualan');
     }
 }

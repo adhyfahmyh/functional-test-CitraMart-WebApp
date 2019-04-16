@@ -10,11 +10,11 @@ module.exports = function(){
             return page.menuForms.perform()
         })
     })
-    this.Given(/^kasir klik kelola penjualan$/, function(){
-        driver.then(function(){
-            return page.menuKelolaPenjualan.perform()
-        })
-    })
+    // this.Given(/^kasir klik kelola penjualan$/, function(){
+    //     driver.then(function(){
+    //         return page.menuKelolaPenjualan.perform()
+    //     })
+    // })
     this.Given(/^kasir masukkan total penjualan$/, function(){
         driver.then(function(){
             return page.fillPenjualan.perform()
