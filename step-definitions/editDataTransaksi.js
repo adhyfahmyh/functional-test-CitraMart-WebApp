@@ -39,7 +39,7 @@ module.exports = function(){
                 return page.btnUpdatePenjualan.perform()
             })
         })
-        this.Then(/^data berhasil diedits$/, function(){
+        this.Then(/^data berhasil diedit$/, function(){
             helpers.loadPage(shared.pages.page4)
         })
     }
