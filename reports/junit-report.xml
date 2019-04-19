@@ -7,25 +7,25 @@
             <property name="URI" value="D:/(( KULIAH ))/SEMESTER 8/(PMPL) Penjaminan Mutu Perangkat Lunak/Workshop()/features/editData.feature">
             </property>
         </properties>
-        <testcase name="Given kasir edit data" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.00110518">
+        <testcase name="Given kasir edit data" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.000468578">
         </testcase>
-        <testcase name="And kasir buka halaman transaksi untuk edit" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.001357026">
+        <testcase name="And kasir buka halaman transaksi untuk edit" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.000367764">
         </testcase>
-        <testcase name="And kasir klik menu forms untuk edit" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.003155069">
+        <testcase name="And kasir klik menu forms untuk edit" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.00017633">
         </testcase>
-        <testcase name="When kasir klik kelola penjualan untuk edit" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.0004278">
+        <testcase name="When kasir klik kelola penjualan untuk edit" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.000221263">
         </testcase>
-        <testcase name="Then kasir melihat data transaksi" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.00050898">
+        <testcase name="Then kasir melihat data transaksi" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.000573167">
         </testcase>
-        <testcase name="And kasir memilih data transaksi" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.00114256">
+        <testcase name="And kasir memilih data transaksi" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.000177086">
         </testcase>
-        <testcase name="And kasir edit total penjualan" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.000239009">
+        <testcase name="And kasir edit total penjualan" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.000147256">
         </testcase>
-        <testcase name="And kasir edit total laba untuk" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.000316791">
+        <testcase name="And kasir edit total laba untuk" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.000184637">
         </testcase>
-        <testcase name="When kasir klik update penjualan" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.000592802">
+        <testcase name="When kasir klik update penjualan" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.000126867">
         </testcase>
-        <testcase name="Then data berhasil diedit" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.000593558">
+        <testcase name="Then data berhasil diedit" classname="edit-data-transaksi;kasir-edit-data-transaksi" time="0.000229569">
         </testcase>
     </testsuite>
     <testsuite name="input-data-transaksi;kasir-input-data-transaksi" tests="9" failures="0" skipped="0">
@@ -35,23 +35,23 @@
             <property name="URI" value="D:/(( KULIAH ))/SEMESTER 8/(PMPL) Penjaminan Mutu Perangkat Lunak/Workshop()/features/inputDataTransaksi.feature">
             </property>
         </properties>
-        <testcase name="Given kasir input data" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000344354">
+        <testcase name="Given kasir input data" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000352283">
         </testcase>
-        <testcase name="And kasir buka halaman transaksi" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.001064024">
+        <testcase name="And kasir buka halaman transaksi" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000756672">
         </testcase>
-        <testcase name="And kasir klik menu forms" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000704944">
+        <testcase name="And kasir klik menu forms" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.00053541">
         </testcase>
-        <testcase name="When kasir klik kelola penjualan" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000419493">
+        <testcase name="When kasir klik kelola penjualan" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000558064">
         </testcase>
-        <testcase name="Then kasir membuka kelola penjualan" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000774797">
+        <testcase name="Then kasir membuka kelola penjualan" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000755539">
         </testcase>
-        <testcase name="And kasir masukkan total penjualan" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000601109">
+        <testcase name="And kasir masukkan total penjualan" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000481793">
         </testcase>
-        <testcase name="And kasir masukkan total laba" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000439505">
+        <testcase name="And kasir masukkan total laba" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000530501">
         </testcase>
-        <testcase name="When kasir klik add category" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000542584">
+        <testcase name="When kasir klik add category" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000513132">
         </testcase>
-        <testcase name="Then data berhasil masuk" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.000965475">
+        <testcase name="Then data berhasil masuk" classname="input-data-transaksi;kasir-input-data-transaksi" time="0.001067044">
         </testcase>
     </testsuite>
     <testsuite name="input-data-varchar;kasir-input-data-varchar" tests="9" failures="0" skipped="0">
@@ -61,23 +61,23 @@
             <property name="URI" value="D:/(( KULIAH ))/SEMESTER 8/(PMPL) Penjaminan Mutu Perangkat Lunak/Workshop()/features/inputDataVarchar.feature">
             </property>
         </properties>
-        <testcase name="Given kasir input data varchar" classname="input-data-varchar;kasir-input-data-varchar" time="0.000382112">
+        <testcase name="Given kasir input data varchar" classname="input-data-varchar;kasir-input-data-varchar" time="0.000066077">
         </testcase>
-        <testcase name="And kasir buka halaman transaksi v" classname="input-data-varchar;kasir-input-data-varchar" time="0.001050809">
+        <testcase name="And kasir buka halaman transaksi v" classname="input-data-varchar;kasir-input-data-varchar" time="0.000186902">
         </testcase>
-        <testcase name="And kasir klik menu forms v" classname="input-data-varchar;kasir-input-data-varchar" time="0.000370785">
+        <testcase name="And kasir klik menu forms v" classname="input-data-varchar;kasir-input-data-varchar" time="0.000118182">
         </testcase>
-        <testcase name="When kasir klik kelola penjualan v" classname="input-data-varchar;kasir-input-data-varchar" time="0.000920165">
+        <testcase name="When kasir klik kelola penjualan v" classname="input-data-varchar;kasir-input-data-varchar" time="0.000125734">
         </testcase>
-        <testcase name="Then kasir membuka kelola penjualan v" classname="input-data-varchar;kasir-input-data-varchar" time="0.001488803">
+        <testcase name="Then kasir membuka kelola penjualan v" classname="input-data-varchar;kasir-input-data-varchar" time="0.000185014">
         </testcase>
-        <testcase name="And kasir masukkan total penjualan varchar" classname="input-data-varchar;kasir-input-data-varchar" time="0.000515399">
+        <testcase name="And kasir masukkan total penjualan varchar" classname="input-data-varchar;kasir-input-data-varchar" time="0.000118938">
         </testcase>
-        <testcase name="And kasir masukkan total laba varchar" classname="input-data-varchar;kasir-input-data-varchar" time="0.000541452">
+        <testcase name="And kasir masukkan total laba varchar" classname="input-data-varchar;kasir-input-data-varchar" time="0.000144613">
         </testcase>
-        <testcase name="When kasir klik add category v" classname="input-data-varchar;kasir-input-data-varchar" time="0.000507092">
+        <testcase name="When kasir klik add category v" classname="input-data-varchar;kasir-input-data-varchar" time="0.000126489">
         </testcase>
-        <testcase name="Then data masuk bernilai 0" classname="input-data-varchar;kasir-input-data-varchar" time="0.000991906">
+        <testcase name="Then data masuk bernilai 0" classname="input-data-varchar;kasir-input-data-varchar" time="0.000190678">
         </testcase>
     </testsuite>
     <testsuite name="login;user-kasir-login" tests="6" failures="0" skipped="0">
@@ -87,17 +87,17 @@
             <property name="URI" value="D:/(( KULIAH ))/SEMESTER 8/(PMPL) Penjaminan Mutu Perangkat Lunak/Workshop()/features/login.feature">
             </property>
         </properties>
-        <testcase name="Given kasir login" classname="login;user-kasir-login" time="0.000181994">
+        <testcase name="Given kasir login" classname="login;user-kasir-login" time="0.000206914">
         </testcase>
-        <testcase name="And user membuka halaman login" classname="login;user-kasir-login" time="0.000214466">
+        <testcase name="And user membuka halaman login" classname="login;user-kasir-login" time="0.000209557">
         </testcase>
-        <testcase name="And user memasukkan username" classname="login;user-kasir-login" time="0.000160472">
+        <testcase name="And user memasukkan username" classname="login;user-kasir-login" time="0.00011856">
         </testcase>
-        <testcase name="And user memasukkan password" classname="login;user-kasir-login" time="0.00018879">
+        <testcase name="And user memasukkan password" classname="login;user-kasir-login" time="0.000112897">
         </testcase>
-        <testcase name="When user klik login" classname="login;user-kasir-login" time="0.000152165">
+        <testcase name="When user klik login" classname="login;user-kasir-login" time="0.000129132">
         </testcase>
-        <testcase name="Then user masuk" classname="login;user-kasir-login" time="0.000349263">
+        <testcase name="Then user masuk" classname="login;user-kasir-login" time="0.000387775">
         </testcase>
     </testsuite>
     <testsuite name="login-gagal;user-gagal-login" tests="6" failures="0" skipped="0">
@@ -107,17 +107,17 @@
             <property name="URI" value="D:/(( KULIAH ))/SEMESTER 8/(PMPL) Penjaminan Mutu Perangkat Lunak/Workshop()/features/loginFailed.feature">
             </property>
         </properties>
-        <testcase name="Given gagal login" classname="login-gagal;user-gagal-login" time="0.000547115">
+        <testcase name="Given gagal login" classname="login-gagal;user-gagal-login" time="0.000201628">
         </testcase>
-        <testcase name="And membuka halaman login" classname="login-gagal;user-gagal-login" time="0.000994549">
+        <testcase name="And membuka halaman login" classname="login-gagal;user-gagal-login" time="0.000208425">
         </testcase>
-        <testcase name="And memasukkan username" classname="login-gagal;user-gagal-login" time="0.000369652">
+        <testcase name="And memasukkan username" classname="login-gagal;user-gagal-login" time="0.000105345">
         </testcase>
-        <testcase name="And memasukkan password" classname="login-gagal;user-gagal-login" time="0.000592802">
+        <testcase name="And memasukkan password" classname="login-gagal;user-gagal-login" time="0.000130643">
         </testcase>
-        <testcase name="When klik login" classname="login-gagal;user-gagal-login" time="0.000576566">
+        <testcase name="When klik login" classname="login-gagal;user-gagal-login" time="0.000120071">
         </testcase>
-        <testcase name="Then gagal masuk" classname="login-gagal;user-gagal-login" time="0.000913369">
+        <testcase name="Then gagal masuk" classname="login-gagal;user-gagal-login" time="0.000207292">
         </testcase>
     </testsuite>
 </testsuites>
