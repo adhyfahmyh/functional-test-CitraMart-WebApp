@@ -1,5 +1,5 @@
 module.exports = {
-    url : "http://localhost/CitraMart/view/kelola_penjualan.php"
+    url : "http://localhost/CitraMart/view/kelola_penjualan.php",
 
     elements : {
         delete : by.xpath("//a[@href='../view/kelola_penjualan.php?delete=4']")
