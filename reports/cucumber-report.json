@@ -13,7 +13,7 @@
             "name": "kasir edit data",
             "result": {
               "status": "passed",
-              "duration": 492744
+              "duration": 1105180
             },
             "line": 5,
             "match": {
@@ -26,7 +26,7 @@
             "name": "kasir buka halaman transaksi untuk edit",
             "result": {
               "status": "passed",
-              "duration": 576189
+              "duration": 1357026
             },
             "line": 6,
             "match": {
@@ -39,7 +39,7 @@
             "name": "kasir klik menu forms untuk edit",
             "result": {
               "status": "passed",
-              "duration": 240142
+              "duration": 3155069
             },
             "line": 7,
             "match": {
@@ -52,7 +52,7 @@
             "name": "kasir klik kelola penjualan untuk edit",
             "result": {
               "status": "passed",
-              "duration": 343977
+              "duration": 427800
             },
             "line": 8,
             "match": {
@@ -65,7 +65,7 @@
             "name": "kasir melihat data transaksi",
             "result": {
               "status": "passed",
-              "duration": 652838
+              "duration": 508980
             },
             "line": 9,
             "match": {
@@ -78,7 +78,7 @@
             "name": "kasir memilih data transaksi",
             "result": {
               "status": "passed",
-              "duration": 181239
+              "duration": 1142560
             },
             "line": 10,
             "match": {
@@ -91,7 +91,7 @@
             "name": "kasir edit total penjualan",
             "result": {
               "status": "passed",
-              "duration": 157073
+              "duration": 239009
             },
             "line": 11,
             "match": {
@@ -104,7 +104,7 @@
             "name": "kasir edit total laba untuk",
             "result": {
               "status": "passed",
-              "duration": 119315
+              "duration": 316791
             },
             "line": 12,
             "match": {
@@ -117,7 +117,7 @@
             "name": "kasir klik update penjualan",
             "result": {
               "status": "passed",
-              "duration": 118183
+              "duration": 592802
             },
             "line": 13,
             "match": {
@@ -130,7 +130,7 @@
             "name": "data berhasil diedit",
             "result": {
               "status": "passed",
-              "duration": 208802
+              "duration": 593558
             },
             "line": 14,
             "match": {
@@ -142,7 +142,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 5942393947
+              "duration": 8584287638
             },
             "hidden": true,
             "match": {
@@ -180,7 +180,7 @@
             "name": "kasir input data",
             "result": {
               "status": "passed",
-              "duration": 67964
+              "duration": 344354
             },
             "line": 5,
             "match": {
@@ -193,7 +193,7 @@
             "name": "kasir buka halaman transaksi",
             "result": {
               "status": "passed",
-              "duration": 217109
+              "duration": 1064024
             },
             "line": 6,
             "match": {
@@ -206,7 +206,7 @@
             "name": "kasir klik menu forms",
             "result": {
               "status": "passed",
-              "duration": 107611
+              "duration": 704944
             },
             "line": 7,
             "match": {
@@ -219,7 +219,7 @@
             "name": "kasir klik kelola penjualan",
             "result": {
               "status": "passed",
-              "duration": 157828
+              "duration": 419493
             },
             "line": 8,
             "match": {
@@ -232,7 +232,7 @@
             "name": "kasir membuka kelola penjualan",
             "result": {
               "status": "passed",
-              "duration": 230325
+              "duration": 774797
             },
             "line": 9,
             "match": {
@@ -245,7 +245,7 @@
             "name": "kasir masukkan total penjualan",
             "result": {
               "status": "passed",
-              "duration": 115539
+              "duration": 601109
             },
             "line": 10,
             "match": {
@@ -258,7 +258,7 @@
             "name": "kasir masukkan total laba",
             "result": {
               "status": "passed",
-              "duration": 103080
+              "duration": 439505
             },
             "line": 11,
             "match": {
@@ -271,7 +271,7 @@
             "name": "kasir klik add category",
             "result": {
               "status": "passed",
-              "duration": 127245
+              "duration": 542584
             },
             "line": 12,
             "match": {
@@ -284,7 +284,7 @@
             "name": "data berhasil masuk",
             "result": {
               "status": "passed",
-              "duration": 215221
+              "duration": 965475
             },
             "line": 13,
             "match": {
@@ -296,7 +296,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 4558172991
+              "duration": 5030392643
             },
             "hidden": true,
             "match": {
@@ -334,7 +334,7 @@
             "name": "kasir input data varchar",
             "result": {
               "status": "passed",
-              "duration": 69852
+              "duration": 382112
             },
             "line": 5,
             "match": {
@@ -347,7 +347,7 @@
             "name": "kasir buka halaman transaksi v",
             "result": {
               "status": "passed",
-              "duration": 202384
+              "duration": 1050809
             },
             "line": 6,
             "match": {
@@ -360,7 +360,7 @@
             "name": "kasir klik menu forms v",
             "result": {
               "status": "passed",
-              "duration": 120070
+              "duration": 370785
             },
             "line": 7,
             "match": {
@@ -373,7 +373,7 @@
             "name": "kasir klik kelola penjualan v",
             "result": {
               "status": "passed",
-              "duration": 145368
+              "duration": 920165
             },
             "line": 8,
             "match": {
@@ -386,7 +386,7 @@
             "name": "kasir membuka kelola penjualan v",
             "result": {
               "status": "passed",
-              "duration": 233346
+              "duration": 1488803
             },
             "line": 9,
             "match": {
@@ -399,7 +399,7 @@
             "name": "kasir masukkan total penjualan varchar",
             "result": {
               "status": "passed",
-              "duration": 132531
+              "duration": 515399
             },
             "line": 10,
             "match": {
@@ -412,7 +412,7 @@
             "name": "kasir masukkan total laba varchar",
             "result": {
               "status": "passed",
-              "duration": 198985
+              "duration": 541452
             },
             "line": 11,
             "match": {
@@ -425,7 +425,7 @@
             "name": "kasir klik add category v",
             "result": {
               "status": "passed",
-              "duration": 138573
+              "duration": 507092
             },
             "line": 12,
             "match": {
@@ -438,7 +438,7 @@
             "name": "data masuk bernilai 0",
             "result": {
               "status": "passed",
-              "duration": 208802
+              "duration": 991906
             },
             "line": 13,
             "match": {
@@ -450,7 +450,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 4863210641
+              "duration": 4867006087
             },
             "hidden": true,
             "match": {
@@ -489,7 +489,7 @@
             "name": "kasir login",
             "result": {
               "status": "passed",
-              "duration": 345487
+              "duration": 181994
             },
             "line": 6,
             "match": {
@@ -502,7 +502,7 @@
             "name": "user membuka halaman login",
             "result": {
               "status": "passed",
-              "duration": 343598
+              "duration": 214466
             },
             "line": 7,
             "match": {
@@ -515,7 +515,7 @@
             "name": "user memasukkan username",
             "result": {
               "status": "passed",
-              "duration": 228436
+              "duration": 160472
             },
             "line": 8,
             "match": {
@@ -528,7 +528,7 @@
             "name": "user memasukkan password",
             "result": {
               "status": "passed",
-              "duration": 184259
+              "duration": 188790
             },
             "line": 9,
             "match": {
@@ -541,7 +541,7 @@
             "name": "user klik login",
             "result": {
               "status": "passed",
-              "duration": 182750
+              "duration": 152165
             },
             "line": 10,
             "match": {
@@ -554,7 +554,7 @@
             "name": "user masuk",
             "result": {
               "status": "passed",
-              "duration": 386643
+              "duration": 349263
             },
             "line": 11,
             "match": {
@@ -566,7 +566,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 3969423475
+              "duration": 4209879261
             },
             "hidden": true,
             "match": {
@@ -605,7 +605,7 @@
             "name": "gagal login",
             "result": {
               "status": "passed",
-              "duration": 190679
+              "duration": 547115
             },
             "line": 6,
             "match": {
@@ -618,7 +618,7 @@
             "name": "membuka halaman login",
             "result": {
               "status": "passed",
-              "duration": 337935
+              "duration": 994549
             },
             "line": 7,
             "match": {
@@ -631,7 +631,7 @@
             "name": "memasukkan username",
             "result": {
               "status": "passed",
-              "duration": 134041
+              "duration": 369652
             },
             "line": 8,
             "match": {
@@ -644,7 +644,7 @@
             "name": "memasukkan password",
             "result": {
               "status": "passed",
-              "duration": 122336
+              "duration": 592802
             },
             "line": 9,
             "match": {
@@ -657,7 +657,7 @@
             "name": "klik login",
             "result": {
               "status": "passed",
-              "duration": 1138407
+              "duration": 576566
             },
             "line": 10,
             "match": {
@@ -670,7 +670,7 @@
             "name": "gagal masuk",
             "result": {
               "status": "passed",
-              "duration": 233723
+              "duration": 913369
             },
             "line": 11,
             "match": {
@@ -682,7 +682,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 3705979414
+              "duration": 4045717153
             },
             "hidden": true,
             "match": {
