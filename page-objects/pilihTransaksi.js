@@ -2,7 +2,7 @@ module.exports = {
     url : "http://localhost/CitraMart/view/kelola_penjualan.php",
 
     elements : {
-        klikEdit : by.xpath("//a[@href='../view/kelola_penjualan.php?edit=4']")
+        klikEdit : by.xpath("//a[@href='../view/kelola_penjualan.php?edit=10']")
     },
 
     perform: function(){
